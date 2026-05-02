@@ -223,7 +223,7 @@ Baccarat Rouge 540`);
   if (text === "⬅️ بازگشت به منو") {
     return sendMessage(chatId, "منوی اصلی 👇", mainMenu);
   }
-}
+
 
   res.sendStatus(200);
 });
